@@ -9,7 +9,7 @@ import java.net.Socket;
 public class Cliente 
 {
 	public final static String ip = "177.24.42.37";
-	public final static String host = "localhost";
+	public final static String host = "localhos t";
 	public final static int puerto = 8080;
 
 	public static void main(String[] args)
